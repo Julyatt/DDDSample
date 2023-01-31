@@ -10,8 +10,5 @@
         <module name="DDDSample" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Event" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
